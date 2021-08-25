@@ -1,0 +1,18 @@
+{
+    "--begin--":    "修改后可能需要重新验证设备。",
+    "product":      "iarim",
+    "device":       "sagit",
+    "board":        "eomam",
+    "brand":        "Xiaomi",
+    "model":        "MI 8",
+    "wifi_ssid":    "TP-LINK-143b1a0a0",
+    "bootloader":   "U-boot",
+    "--end--":      "下面的请勿随意修改，除非你知道你在做什么。",
+    "android_id":   "BRAND.815654.177",
+    "boot_id":      "0f50e46a-0734-4951-87af-85545a42c5d7",
+    "proc_version": "Linux version 4.19.71-51930 (example@xxx.java.sun.com)",
+    "mac_address":  "94:F6:D6:12:11:6E",
+    "ip_address":   "10.0.46.59",
+    "imei":         "167667731851904",
+    "incremental":  "7136401"
+}

@@ -1,0 +1,6 @@
+{
+	"白手":{
+		"damage":"(function (game){return random(game.self.a,game.self.a+game.self.p-1);})(game)",
+		"cd":0
+	}
+}
