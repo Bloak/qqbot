@@ -8,13 +8,13 @@ module.exports = {
     debug: false,
 
     //单个账号的配置(可以添加多个)
-    706017626: {
+    123456789: {
         host:     "localhost",
         port:     5700,
         use_http: true,
         use_ws:   false, //和http使用相同端口(暂不支持分端口)
 
-        platform: 1, //1手机 2平板 3手表
+        platform: 2, //1手机 2平板 3手表
         kickoff: false, //被挤下线是否在3秒后反挤对方
         ignore_self: false, //群聊是否无视自己的发言
 
@@ -32,6 +32,6 @@ module.exports = {
             //"ws://your.address.com:8080", //可以添加多个url(暂不支持将api和event分两个通道)
         ],
         ws_reverse_reconnect_interval: 3000, //反向ws断线重连间隔(毫秒)
-    },
+    }
 
 };
